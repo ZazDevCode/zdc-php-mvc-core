@@ -1,0 +1,10 @@
+{
+    "name": "zdv/php-mvc-core",
+    "authors": [
+        {
+            "name": "Sascha Wernars",
+            "email": "s@scha.nl"
+        }
+    ],
+    "require": {}
+}
